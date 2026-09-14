@@ -1,0 +1,19 @@
+package practicePrograms;
+
+public class EncapsulationConcept {
+  private String username ="eeshan";
+  private int id=234;
+  public String getusername()
+  {
+	  return username;
+  }
+  public void setusername(String username)
+  {
+	  this.username=username;
+  }
+  
+	public static void main(String[] args) {
+		
+	}
+
+}

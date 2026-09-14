@@ -1,0 +1,23 @@
+package practiceInterview;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class OccuranceOfaCharacterinString {
+
+	public static void main(String[] args) {
+		String a="Sanjay";
+		char c='a';
+		int count=0;
+		for(int i=0;i<=a.length()-1;i++)
+		{
+			if(a.charAt(i)==c)
+			{
+				count++;
+			}
+		}
+         System.out.println(count);
+         
+	}
+
+}

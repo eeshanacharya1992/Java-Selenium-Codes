@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_WIDTH" value="600"/>
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_HEIGHT" value="655"/>
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_SIZE" value="true"/>
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_LOCATION" value="false"/>
+		<list key="orderedElements">
+			<item value="/Doo/src/ifelse/CommonElementsinArray.java"/>
+			<item value="/Doo/src/ifelse/MergeArray.java"/>
+			<item value="/JavaProject/src/Package/CommonElemmentInArray.java"/>
+			<item value="/JavaProject/src/Package/ReverseEachWordofaString.java"/>
+			<item value="/forloop787/src/proj1/NoOfchar.java"/>
+			<item value="/Doo/src/giii/Anagram.java"/>
+			<item value="/forloop787/src/arrayproblems/SortArrayInAscendingAndDescendingOrder.java"/>
+			<item value="/Doo/src/ifelse/FibbonaciSeries.java"/>
+			<item value="/JavaProject/src/Package/EncapsulationEx.java"/>
+			<item value="/Doo/src/giii/UpCastingandDowncasting.java"/>
+			<item value="/Doo/src/giii/WideningTYpecasting.java"/>
+			<item value="CommonElementsinArray (1)/run"/>
+			<item value="/Doo/src/ifelse/PrimeNumber.java"/>
+			<item value="/Doo/src/ifelse/OccuranceofCharacter.java"/>
+			<item value="/Doo/src/ifelse/CharacterOccur.java"/>
+			<item value="/JavaProject/src/Package/FluentWaitClass.java"/>
+			<item value="/Doo/src/giii/ArrayListtoArrayViceversa.java"/>
+			<item value="/JavaProject/src/practiceInterview/NUmberSwapUsing3rdNumber.java"/>
+			<item value="/Doo/src/giii/MathClassMethods.java"/>
+			<item value="/JavaProject/src/Package/DragDrop.java"/>
+			<item value="/JavaProject/src/Package/ActionOnDisabledComponent.java"/>
+			<item value="/JavaProject/src/Package/EXcelSheetPractice.java"/>
+			<item value="/Doo/src/giii/ExceptionHandlingUsingNestedTryCatch.java"/>
+			<item value="/JavaProject/src/Package/CountNoOfDropDownandDisplay.java"/>
+			<item value="/JavaProject/src/Package/ArrayListIterator.java"/>
+			<item value="/JavaProject/src/Package/ShadowRoot.java"/>
+			<item value="/JavaProject/src/Package/InputWithoutSendKeysEx1.java"/>
+			<item value="/forloop787/src/proj1/MaxMInArray.java"/>
+			<item value="/JavaProject/src/listenerConcept/DataProvider22.java"/>
+			<item value="/JavaProject/src/listenerConcept/DataProviderAnnotation.java"/>
+			<item value="/Amazon2MavenProject/src/test/java/NewPackage/NewProject/DataFetching.java"/>
+			<item value="/Doo/src/giii/DuplicateArray.java"/>
+			<item value="/JavaProject/src/testNG/SoftAssertion.java"/>
+			<item value="/Amazon2MavenProject/src/main/java/UtilitiesPackage/Screenshots.java"/>
+			<item value="/JavaProject/src/Package/NestedTryCatch.java"/>
+			<item value="/JavaProject/src/testNG/BrokenLinkLexmetech.java"/>
+			<item value="/JavaProject/src/Package/FrequencyString.java"/>
+			<item value="/JavaProject/src/Package/StringandStringBuffer.java"/>
+			<item value="/JavaProject/src/Package/NoofDropDownandDisplayPractice.java"/>
+			<item value="/JavaProject/src/Package/HoverOver.java"/>
+			<item value="/JavaProject/src/Package/ExplicitWaitTitleIs.java"/>
+			<item value="/Ramadevi/src/test/java/Airlines/project/airlinesproject/Listners_Class.java"/>
+			<item value="/JavaProject/src/Package/AutoSuggestion2.java"/>
+			<item value="/JavaProject/src/Package/AutosuggestionusingRobotClass.java"/>
+			<item value="/JavaProject/src/testNG/BrowserAutomation.java"/>
+			<item value="/JavaProject/src/Package/Multiplewindowhandles.java"/>
+			<item value="/JavaProject/src/Package/WindowHandle.java"/>
+			<item value="/JavaProject/src/Package/IsEnabledEXample2.java"/>
+			<item value="/JavaProject/src/testNG/DataProviderLexmetech.java"/>
+			<item value="/Amazon2MavenProject/src/main/java/UtilitiesPackage/ExcelSheet_DDT.java"/>
+			<item value="/JavaProject/src/Package/NoofCHarDigitsPractice.java"/>
+			<item value="/JavaProject/src/Package/RightClick.java"/>
+			<item value="/JavaProject/src/Package/SwitchCaseEx.java"/>
+			<item value="/forloop787/src/stringproblems/Pallindrome.java"/>
+		</list>
+		<list key="orderedProviders">
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.debug.ui/org.eclipse.debug.internal.ui.quickaccess.RunQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+			<item value="org.eclipse.ui.ide/org.eclipse.ui.internal.ide.dialogs.OpenResourceQuickAccessComputer"/>
+		</list>
+		<list key="textEntries">
+			<item value="3"/>
+			<item value="2"/>
+			<item value="1"/>
+			<item value="2"/>
+			<item value="2"/>
+			<item value="3"/>
+			<item value="1"/>
+			<item value="2"/>
+			<item value="2"/>
+			<item value="1"/>
+			<item value="1"/>
+			<item value="2"/>
+			<item value="1"/>
+			<item value="1"/>
+			<item value="2"/>
+			<item value="3"/>
+			<item value="3"/>
+			<item value="3"/>
+			<item value="1"/>
+			<item value="2"/>
+			<item value="2"/>
+			<item value="1"/>
+			<item value="1"/>
+			<item value="1"/>
+			<item value="2"/>
+			<item value="2"/>
+			<item value="3"/>
+			<item value="1"/>
+			<item value="1"/>
+			<item value="2"/>
+			<item value="1"/>
+			<item value="1"/>
+			<item value="1"/>
+			<item value="2"/>
+			<item value="1"/>
+			<item value="3"/>
+			<item value="1"/>
+			<item value="1"/>
+			<item value="1"/>
+			<item value="1"/>
+			<item value="1"/>
+			<item value="1"/>
+			<item value="1"/>
+			<item value="2"/>
+			<item value="1"/>
+			<item value="1"/>
+			<item value="1"/>
+			<item value="1"/>
+			<item value="1"/>
+			<item value="1"/>
+			<item value="1"/>
+			<item value="1"/>
+			<item value="3"/>
+			<item value="1"/>
+		</list>
+		<list key="textArray">
+			<item value="com"/>
+			<item value="commonele"/>
+			<item value="common"/>
+			<item value="merge"/>
+			<item value="merg"/>
+			<item value="comm"/>
+			<item value="revers"/>
+			<item value="reverse"/>
+			<item value="no"/>
+			<item value="noof"/>
+			<item value="anagram"/>
+			<item value="anag"/>
+			<item value="anagr"/>
+			<item value="sort"/>
+			<item value="fib"/>
+			<item value="fibbo"/>
+			<item value="enc"/>
+			<item value="enca"/>
+			<item value="upc"/>
+			<item value="wide"/>
+			<item value="commonelementsinarray"/>
+			<item value="commonelemen"/>
+			<item value="prime"/>
+			<item value="occur"/>
+			<item value="characteroc"/>
+			<item value="occu"/>
+			<item value="fluen"/>
+			<item value="flu"/>
+			<item value="flue"/>
+			<item value="arraylistt"/>
+			<item value="array"/>
+			<item value="arra"/>
+			<item value="numberswa"/>
+			<item value="number"/>
+			<item value="swa"/>
+			<item value="math"/>
+			<item value="dra"/>
+			<item value="drag"/>
+			<item value="action"/>
+			<item value="dis"/>
+			<item value="exce"/>
+			<item value="excep"/>
+			<item value="count"/>
+			<item value="arraylisti"/>
+			<item value="itera"/>
+			<item value="shad"/>
+			<item value="shadow"/>
+			<item value="inputwithout"/>
+			<item value="send"/>
+			<item value="withou"/>
+			<item value="max"/>
+			<item value="dataprov"/>
+			<item value="dataprovider"/>
+			<item value="datapr"/>
+			<item value="data"/>
+			<item value="dupl"/>
+			<item value="soft"/>
+			<item value="scre"/>
+			<item value="scree"/>
+			<item value="nested"/>
+			<item value="brok"/>
+			<item value="broke"/>
+			<item value="brokenlink"/>
+			<item value="freq"/>
+			<item value="stringandst"/>
+			<item value="noofdr"/>
+			<item value="hover"/>
+			<item value="expli"/>
+			<item value="listn"/>
+			<item value="aut"/>
+			<item value="autosu"/>
+			<item value="robot"/>
+			<item value="browser"/>
+			<item value="multipl"/>
+			<item value="wind"/>
+			<item value="isen"/>
+			<item value="dataprovi"/>
+			<item value="excel"/>
+			<item value="noofch"/>
+			<item value="right"/>
+			<item value="swit"/>
+			<item value="switchcase"/>
+			<item value="swi"/>
+			<item value="pallindr"/>
+		</list>
+	</section>
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.m2e.core.wizards.Maven2ImportWizard"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.eclipse.m2e"/>
+		</list>
+	</section>
+	<section name="WorkbenchPreferenceDialog">
+		<item key="DIALOG_X_ORIGIN" value="9"/>
+		<item key="DIALOG_Y_ORIGIN" value="9"/>
+		<item key="DIALOG_WIDTH" value="1020"/>
+		<item key="DIALOG_HEIGHT" value="1020"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="InstallationDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="-238"/>
+		<item key="DIALOG_Y_ORIGIN" value="0"/>
+		<item key="DIALOG_WIDTH" value="930"/>
+		<item key="DIALOG_HEIGHT" value="978"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="FileSystemImportWizard">
+	</section>
+	<section name="FileExtensionDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="160"/>
+		<item key="DIALOG_Y_ORIGIN" value="260"/>
+		<item key="DIALOG_WIDTH" value="700"/>
+		<item key="DIALOG_HEIGHT" value="375"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>

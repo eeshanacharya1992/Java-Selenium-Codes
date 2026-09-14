@@ -1,0 +1,49 @@
+package AmazonTest;
+
+import org.openqa.selenium.WebDriver;
+
+
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.Parameters;
+
+
+public class LaunchQuit
+
+{
+
+	WebDriver driver;
+	@BeforeMethod
+	@Parameters("browser") //name of parameter
+
+	
+	public void launch(String nameofbrowser)
+	{
+		if(nameofbrowser.equals("Chrome"))
+		{
+			driver= new ChromeDriver();
+		}
+
+		if(nameofbrowser.equals("Chrome"))
+		{
+			driver= new FirefoxDriver();
+		}
+        driver = new ChromeDriver();
+		driver.get("https://amazon.in");
+		driver.manage().window().maximize();
+		driver.navigate().refresh();
+
+	}
+
+	@AfterMethod
+	public void quit() throws InterruptedException 
+	
+	{
+
+		//driver.quit();
+		
+	}
+
+}

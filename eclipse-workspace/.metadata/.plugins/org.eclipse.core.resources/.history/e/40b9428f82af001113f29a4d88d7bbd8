@@ -1,0 +1,26 @@
+package practicePrograms;
+
+public class EncapsulationConcept {
+  static void ad()
+  {
+	  int a= 12;
+	  int b=23;
+	  int c=a+b;
+	  System.out.println(c);
+  }
+  void sub()
+  {
+	  int s=12;
+	  int t=13;
+	  int u=s+t;
+	  System.out.println(u);
+  }
+	public static void main(String[] args) {
+		EncapsulationConcept sq= new EncapsulationConcept();
+		sq.sub();
+		ad();
+		EncapsulationConcept.ad();
+		new EncapsulationConcept().sub();
+	}
+
+}

@@ -1,0 +1,26 @@
+package giii;
+class Lucky2{
+	void apple()
+	{
+		System.out.println("Apple");
+	}
+}
+class Happy2 extends Lucky{
+	void orange()
+	{
+		System.out.println("Orange");
+	}
+}
+public class HirarchicalInheritance2 extends Lucky {
+       void grapes()
+       {
+    	   System.out.println("grapes");
+       }
+
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

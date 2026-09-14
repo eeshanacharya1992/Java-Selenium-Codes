@@ -1,0 +1,90 @@
+package SeleniumPackage1.Seleniumproject1;
+
+import java.time.Duration;
+import java.util.Iterator;
+import java.util.Set;
+
+import org.testng.annotations.Test;
+
+public class ItemsFromProductPage extends Launch_Quit {
+
+	@Test
+	
+public void product_pages_Items_amazon() {		
+
+		Amz_Search_Product Search = new Amz_Search_Product(driver);
+		Search.Search_Product();
+		
+		Amz_CartPage cp = new Amz_CartPage(driver);
+		cp.Product(driver);
+		 Set<String> s1 = driver.getWindowHandles();
+			System.out.println(s1);
+			Iterator <String>i1=s1.iterator();
+			String parentid = i1.next();
+			String childid1 = i1.next();
+			
+			System.out.println(parentid);
+			System.out.println(childid1);
+
+			driver.switchTo().window(childid1);
+			
+	 	cp.AddTOCart();
+	 		
+	
+		Amz_Items_From_product_pages Items = new Amz_Items_From_product_pages(driver);
+		Items.Search_Product1(driver);
+		
+		Amz_CartPage cp1 = new Amz_CartPage(driver);
+		cp1.Product(driver);
+		
+		 Set<String> s2 = driver.getWindowHandles();
+			System.out.println(s2);
+			Iterator <String>i2=s2.iterator();
+			String parentid1 = i2.next();
+			String childid_1 = i2.next();
+			String childid_2 = i2.next();
+			
+			System.out.println(parentid1);
+			System.out.println(childid_1);
+			
+			driver.switchTo().window(childid_2);
+			
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(1000));
+		cp1.AddTOCart();
+		
+		Amz_Update_Quantity UQ = new Amz_Update_Quantity(driver);
+		UQ.Go_TO_Cart();
+		UQ.Drop_DownQuantity();
+		UQ.Deleteproduct();
+		
+		
+//		Amz_Items_From_product_pages Items1 = new Amz_Items_From_product_pages(driver);
+//		Items1.Search_Product2();
+//		
+//
+//		Amz_CartPage cp2 = new Amz_CartPage(driver);
+//		cp2.Product(driver);
+//		 Set<String> s3 = driver.getWindowHandles();
+//			System.out.println(s3);
+//			Iterator <String>i3=s3.iterator();
+//			String parentid2 = i3.next();
+//			String childid1_1 = i3.next();
+//			String childid2_2 = i3.next();
+//			String childid_3 = i3.next();
+//			
+//			System.out.println(parentid2);
+//			System.out.println(childid1_1);
+//			System.out.println(childid2_2);
+//			driver.switchTo().window(childid_3);
+//			driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(3000));
+//		//	cp2.Addcart();;	
+//			cp2.AddTOCart();
+		
+		
+		
+	    
+	
+		
+}
+
+}
